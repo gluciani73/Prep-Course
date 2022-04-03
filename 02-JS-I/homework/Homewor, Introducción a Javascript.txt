@@ -1,0 +1,39 @@
+Homewor, Introducción a Javascript
+
+1. 
+
+// Variables:
+
+Una variable es una forma de almacenar el valor de algo para usar más tarde. 
+
+se puede configurar y restablecer a cualquier tipo, 
+
+Para crear una variable en JavaScript utilizamos la palabra clave var , 
+seguida de un espacio y el nombre de la variable 
+(con este nombre podremos hacer referencia a ella luego)
+
+Además de declarar una variable podemos asignarle un valor usando el signo =
+
+// Strings:
+
+Son bloques de texto, se definen entre comillas. Cualquier texto entre comillas es una cadena o string
+
+// Funciones (argumentos, return)
+
+Las funciones son pedazos de codigos que se pueden re utilizar, tienen un nombre y argumentos 
+
+Las funciones son una parte muy importante de todo lenguaje de programacion y sobre todo en
+JavaScript. Són tipos particulares de objetos, llamados callable objects u objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto.
+Necesitamos funciones para calcular un conjunto de variables o argumentos, cambiarlos, hacer algo con ellos. 
+
+Lo más probable es que queramos devolver algo del resultado de una funcion. Por ejemplo la suma de dos números. Para esto la declaración de retorno (“return”) es la única forma en que
+los datos escapan de una función. 
+No se puede acceder a nada más que a lo que se devuelve fuera de la función. Cuando una función golpea una declaración de retorno, la función detiene inmediatamente lo que está haciendo y “devuelve” lo especificado.
+
+// Declaraciones if
+
+Sirven para bifurcar el recorrido de la ejecucion dada una condicion. Si sucede una cosa, ejecutamos algo , si sucede otra (else) , ejecutamos otra.
+
+// Valores booleanos (true, false)
+
+Son valores de variables que solo tienen 2 estados, verdadero, o falso.
