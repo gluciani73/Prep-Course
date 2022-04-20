@@ -1,20 +1,29 @@
 
  
-  	h1{
+
+
+  	h1 {
   		color: red;
   	}
-  	img{
+  	img {
   		width: 400px;
   	}
   	#thirdDiv{
   		width: 500px;
-  		height: 600;
-  		background: azure;
+  		height: 600px;
+  		background-color: sandybrown;
   		padding: 50px;
-  		border-width: 5px;
-  		border-color: black;
+  		border: 5px solid brown;
+  		margin: 50px;
   	}
   	#spanId {
   		font-size: 18px;
   		margin: 50px;
+  	}
+
+  	.divClass {
+  		background-image: url("wood-2879254_960_720.webp");
+  		align
+  		  margin-left: auto;
+  		  margin-right: auto;
   	}
