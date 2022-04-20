@@ -57,3 +57,52 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #ejercicioCinco {
   flex-direction: row-reverse;
 }
+
+/* Ejercicio 7: */
+
+#ejercicioSiete {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  /* background: pink; */
+}
+/*
+.elementos {
+  background: violet
+
+} */
+
+#elementoUno {
+  /* display: flex; */
+  /* position: relative;
+  top: -50;
+  left: 0; */
+
+}
+
+#elementoDos {
+  /* visibility: visible; */
+  /* position: relative;
+  top: 50;
+  left: 0; */
+  /* background: lightblue; */
+
+}
+
+#elementoTres {
+  /* position: relative;
+  bottom: +150;
+  right: 0; */
+}
+
+#elementoCuatro {
+  /* display: none; */
+  /* position: relative;
+  top: 150;
+  right: 120; */
+
+}
+
+#spanJuana {
+
+}
